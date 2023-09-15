@@ -1,0 +1,57 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Flex Containers */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;  
+}
+
+.fact-container{
+  width: 50%
+}
+
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+
+@media only screen and (max-width: 480px) {
+  .container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  }
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+body{
+  font-family: "Abril Fatface", cursive;
+  text-align: center;
+  font-size: 2em;
+}
+
+h1{
+  letter-spacing: .05em
+}
+
+span{
+  font-size: .7em;
+  letter-spacing: .02em;
+  font-style: italic;
+}
+
+p{
+  font-size: .9em;
+  font-family: "Raleway", sans-serif;
+}
