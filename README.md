@@ -3,11 +3,7 @@ You never know when you might need a good conversation stater. What better way t
 
 **Link to project:** [Random Fact Generator](https://savvycolleen.github.io/randomfactgenerator/)
 
-<p>
-  <img src='images/img1.png"
-</p>
-
-![img of site](img src="images/img1.png")
+![image of site](images/img1.png)
 
 ## How It's Made:
 
